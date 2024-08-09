@@ -19,7 +19,8 @@
     •Meu passatempo é fazer as unhas💅
     
     •Amo cozinhar🍲
-    
-https://media1.tenor.com/m/5nQ2zuu3noUAAAAC/monsters-inc.gif
+
+    ![](https://media1.tenor.com/m/5nQ2zuu3noUAAAAC/monsters-inc.gif)
+
 
 
