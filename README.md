@@ -1,16 +1,25 @@
-## Hi there 👋
+## **Bem vindos ao meu perfil** 💜
 
-<!--
-**EmaniBB/EmaniBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👽: Meu nome é Emanuelle
 
-Here are some ideas to get you started:
+🏫: Sou estudante do estado de São Paulo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖: Estou me especializando em Java Script
+
+📚: Utilizo esse espaço para minha organização e compartilhamento de projetos
+
+🔬: Futuramente pretendo cursar farmácia
+
+🌻: Curiosidades sobre mim:
+
+    •Adoro animais🐶
+    
+    •Gosto de ouvir música🎶
+    
+    •Meu passatempo é fazer as unhas💅
+    
+    •Amo cozinhar🍲
+    
+
+
+
